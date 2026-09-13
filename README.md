@@ -143,4 +143,4 @@ Run Roborazzi screenshot verification tests:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) (or your preferred license).
+This project is licensed under the [MIT License](LICENSE) .
