@@ -108,8 +108,8 @@ app/src/main/java/com/example/
 ### Clone & Build
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/anvinbiju1-lab/Lock-In.git
+   cd Lock-In
    ```
 
 2. Open the project in **Android Studio**.
